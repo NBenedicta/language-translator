@@ -1,21 +1,19 @@
 # Language Translator Web App
 
-A simple web-based language translator using the LibreTranslate API.  
+A responsive web application that translates text between multiple languages using a third-party translation API.
 
 ## Features
-- Translate text between multiple languages
-- Easy-to-use interface
-- Free API usage
+- Translate text between different languages
+- Clean, modern UI
+- Responsive design
+- Deployed with GitHub Pages
 
 ## Tech Stack
-- HTML, CSS, JavaScript
-- LibreTranslate API
-- Hosted on GitHub Pages
+- HTML
+- CSS
+- JavaScript
+- REST API
 
-## How to Use
-1. Open `index.html` in a browser.
-2. Enter text to translate.
-3. Select source and target languages.
-4. Click "Translate" to see the result.
-
+## Live Demo
+https://nbenedicta.github.io/language-translator/
 
